@@ -980,8 +980,8 @@ video {
 }
 
 .text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
+  font-size: 2.25rem;
+  line-height: 2.75rem;
 }
 
 .text-4xl {
@@ -1373,7 +1373,7 @@ video {
   }
 
   .md\:text-left {
-    text-align: left;
+    text-align: center;
   }
 
   .md\:text-lg {
